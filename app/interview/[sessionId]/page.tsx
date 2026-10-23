@@ -19,9 +19,9 @@ import {
 } from 'lucide-react';
 import toast from 'react-hot-toast';
 
-export default function LiveInterviewPage() {
+export default function LiveInterviewPage({ params: pageParams }: { params?: { sessionId?: string } }) {
   const params = useParams();
-  const sessionId = params?.sessionId as string;
+  const sessionId = (pageParams?.sessionId || params?.sessionId) as string;
   const router = useRouter();
 
   const {
@@ -273,3 +273,6 @@ export default function LiveInterviewPage() {
     </div>
   );
 }
+
+
+

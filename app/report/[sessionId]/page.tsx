@@ -21,9 +21,9 @@ import {
 } from 'lucide-react';
 import toast from 'react-hot-toast';
 
-export default function SessionReportPage() {
+export default function SessionReportPage({ params: pageParams }: { params?: { sessionId?: string } }) {
   const params = useParams();
-  const sessionId = params?.sessionId as string;
+  const sessionId = (pageParams?.sessionId || params?.sessionId) as string;
   const router = useRouter();
 
   const [session, setSession] = useState<InterviewSession | null>(null);
@@ -365,3 +365,6 @@ export default function SessionReportPage() {
     </div>
   );
 }
+
+
+
