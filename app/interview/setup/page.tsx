@@ -44,39 +44,67 @@ export default function InterviewSetupPage() {
     toast.loading('AI is crafting role questions for your interview...');
 
     try {
-      const res = await fetch('/api/interview/start', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({
-          role: selectedRole,
-          level: selectedLevel,
-          count: questionCount,
-          mode,
-        }),
-      });
+      let sessionId = '';
+      let currentQuestion: { id: string; text: string } | null = null;
+      let totalQ = questionCount;
 
-      if (!res.ok) {
-        throw new Error('Failed to generate interview questions');
+      try {
+        const res = await fetch('/api/interview/start', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({
+            role: selectedRole,
+            level: selectedLevel,
+            count: questionCount,
+            mode,
+          }),
+        });
+
+        if (res.ok) {
+          const data = await res.json();
+          sessionId = data.sessionId;
+          currentQuestion = data.question;
+          totalQ = data.totalQuestions || questionCount;
+        }
+      } catch (networkErr) {
+        console.warn('Network or API route unavailable, using instant local engine:', networkErr);
       }
 
-      const data = await res.json();
+      // If server API route failed or returned non-ok (e.g. Netlify/Vercel serverless cold start),
+      // seamlessly initialize via client interview engine so candidate NEVER gets blocked!
+      if (!sessionId || !currentQuestion) {
+        const { createClientSession } = await import('@/lib/clientInterviewEngine');
+        const local = createClientSession({
+          role: selectedRole,
+          level: selectedLevel as any,
+          count: questionCount,
+          mode: mode as any,
+        });
+        sessionId = local.session.id;
+        currentQuestion = {
+          id: local.firstQuestion.id,
+          text: local.firstQuestion.text,
+        };
+        totalQ = local.questions.length;
+      }
+
       toast.dismiss();
       toast.success('Interview session initialized! Preparing audio...');
 
       // Store in Zustand
       store.set({
-        sessionId: data.sessionId,
+        sessionId,
         role: selectedRole,
         level: selectedLevel,
         mode,
-        currentQuestion: data.question,
-        totalQuestions: data.totalQuestions,
+        currentQuestion,
+        totalQuestions: totalQ,
         questionIndex: 1,
         status: 'asking',
         error: null,
       });
 
-      router.push(`/interview/${data.sessionId}`);
+      router.push(`/interview/${sessionId}`);
     } catch (err: any) {
       toast.dismiss();
       toast.error(err.message || 'Error starting interview. Please retry.');

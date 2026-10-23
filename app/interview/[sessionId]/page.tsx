@@ -54,17 +54,40 @@ export default function LiveInterviewPage({ params: pageParams }: { params?: { s
       if (!storeSessionId || storeSessionId !== sessionId) {
         try {
           const res = await fetch(`/api/sessions?id=${sessionId}`);
-          const data = await res.json();
-          if (data.session) {
+          if (res.ok) {
+            const data = await res.json();
+            if (data.session) {
+              setStore({
+                sessionId: data.session.id,
+                role: data.session.role,
+                level: data.session.level,
+                totalQuestions: data.session.questionCount,
+              });
+              return;
+            }
+          }
+        } catch (err) {
+          console.warn('Failed to restore session from API, trying client storage:', err);
+        }
+
+        // Restore from client storage
+        try {
+          const { getClientSession, getClientQuestions } = await import('@/lib/clientInterviewEngine');
+          const local = getClientSession(sessionId);
+          const questions = getClientQuestions(sessionId);
+          if (local) {
             setStore({
-              sessionId: data.session.id,
-              role: data.session.role,
-              level: data.session.level,
-              totalQuestions: data.session.questionCount,
+              sessionId: local.id,
+              role: local.role,
+              level: local.level,
+              totalQuestions: local.questionCount,
+              currentQuestion: questions[0] ? { id: questions[0].id, text: questions[0].text } : undefined,
+              questionIndex: 1,
+              status: 'asking',
             });
           }
         } catch (err) {
-          console.error('Failed to restore session from API:', err);
+          console.warn('Could not restore from client storage:', err);
         }
       }
     }

@@ -93,24 +93,63 @@ export function useInterview(accent = 'en-US') {
         const wpm = wordsPerMinute(finalTranscript, finalDuration);
         const { total: fillerCount } = countFillers(finalTranscript);
 
-        const res = await fetch('/api/interview/answer', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({
+        let data: any = null;
+        try {
+          const res = await fetch('/api/interview/answer', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({
+              sessionId: store.sessionId,
+              questionId: store.currentQuestion.id,
+              transcript: finalTranscript,
+              durationSec: finalDuration,
+              wpm,
+              fillerCount,
+            }),
+          });
+
+          if (res.ok) {
+            data = await res.json();
+          }
+        } catch (apiErr) {
+          console.warn('API error submitting answer, falling back to local evaluation:', apiErr);
+        }
+
+        // If server API route is unavailable (e.g. static host or serverless cold start), evaluate locally
+        if (!data) {
+          const { evaluateAnswerLocally, getClientQuestions, saveClientAnswerRecord } = await import('@/lib/clientInterviewEngine');
+          const evalResult = evaluateAnswerLocally({
+            role: store.role,
+            level: store.level,
+            questionText: store.currentQuestion.text,
+            transcript: finalTranscript,
+            durationSec: finalDuration,
+            wpm,
+            fillerCount,
+          });
+
+          saveClientAnswerRecord(store.sessionId, {
+            id: 'ans_' + Date.now(),
             sessionId: store.sessionId,
             questionId: store.currentQuestion.id,
             transcript: finalTranscript,
             durationSec: finalDuration,
             wpm,
             fillerCount,
-          }),
-        });
+            evaluation: evalResult as any,
+            createdAt: new Date().toISOString(),
+          });
 
-        if (!res.ok) {
-          throw new Error('Failed to evaluate answer');
+          const allQuestions = getClientQuestions(store.sessionId);
+          const nextIndex = store.questionIndex; // 1-based, so element at nextIndex is next
+          const nextQ = allQuestions[nextIndex];
+
+          data = {
+            evaluation: evalResult,
+            nextQuestion: nextQ ? { id: nextQ.id, text: nextQ.text } : null,
+          };
         }
 
-        const data = await res.json();
         rec.reset();
 
         // Check if follow-up or next question exists
@@ -130,14 +169,19 @@ export function useInterview(accent = 'en-US') {
         } else {
           // Final question answered, finish session
           toast.loading('Analyzing complete interview and preparing feedback report...');
-          const finishRes = await fetch('/api/interview/finish', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ sessionId: store.sessionId }),
-          });
+          let finishOk = false;
+          try {
+            const finishRes = await fetch('/api/interview/finish', {
+              method: 'POST',
+              headers: { 'Content-Type': 'application/json' },
+              body: JSON.stringify({ sessionId: store.sessionId }),
+            });
+            finishOk = finishRes.ok;
+          } catch {}
 
-          if (!finishRes.ok) {
-            throw new Error('Failed to finish interview');
+          if (!finishOk) {
+            const { finishClientInterview } = await import('@/lib/clientInterviewEngine');
+            finishClientInterview(store.sessionId);
           }
 
           toast.dismiss();
@@ -174,11 +218,21 @@ export function useInterview(accent = 'en-US') {
     cancelSpeech();
     toast.loading('Finalizing interview report...');
     try {
-      await fetch('/api/interview/finish', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ sessionId: store.sessionId }),
-      });
+      let finishOk = false;
+      try {
+        const res = await fetch('/api/interview/finish', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ sessionId: store.sessionId }),
+        });
+        finishOk = res.ok;
+      } catch {}
+
+      if (!finishOk) {
+        const { finishClientInterview } = await import('@/lib/clientInterviewEngine');
+        finishClientInterview(store.sessionId);
+      }
+
       toast.dismiss();
       toast.success('Interview ended. Generating report...');
       store.set({ status: 'finished' });

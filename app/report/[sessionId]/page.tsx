@@ -33,11 +33,28 @@ export default function SessionReportPage({ params: pageParams }: { params?: { s
     async function fetchReport() {
       try {
         const res = await fetch(`/api/sessions?id=${sessionId}`);
-        if (!res.ok) throw new Error('Session not found');
-        const data = await res.json();
-        setSession(data.session);
+        if (res.ok) {
+          const data = await res.json();
+          if (data.session && data.session.report) {
+            setSession(data.session);
+            setLoading(false);
+            return;
+          }
+        }
       } catch (err: any) {
-        console.error('Failed to load report:', err);
+        console.warn('Could not load report from API, checking local storage:', err);
+      }
+
+      // Check client storage fallback
+      try {
+        const { getClientSession } = await import('@/lib/clientInterviewEngine');
+        const local = getClientSession(sessionId);
+        if (local && local.report) {
+          setSession(local);
+        } else {
+          toast.error('Could not load report details.');
+        }
+      } catch (clientErr) {
         toast.error('Could not load report details.');
       } finally {
         setLoading(false);
