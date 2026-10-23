@@ -1,0 +1,706 @@
+[
+  {
+    "id": "979e196e-c2e9-48b1-8683-7477a3350384",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "questionId": "cd376f7a-d4a2-4c4c-9604-0c5e1bb42385",
+    "transcript": "I am a fresh graduate passionate about building responsive web applications using React and Tailwind CSS. In my final year project, I built an interactive dashboard.",
+    "durationSec": 35,
+    "wpm": 130,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 8,
+        "strengths": [
+          "Clear articulation and logical flow",
+          "Included relevant real-world project context"
+        ],
+        "improvements": [
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Use decisive action verbs like 'architected', 'spearheaded', or 'streamlined'."
+      },
+      "better_answer": "In my previous work as a Frontend Developer, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": null,
+      "roman_urdu_tip": "Bohot achi koshish thi! Confidence aur clarity bohot achi rahi."
+    },
+    "createdAt": "2026-10-22T10:06:19.587Z"
+  },
+  {
+    "id": "77217567-ee2c-42ce-bc11-13330a3d40f1",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "a5fff7c2-eb3c-4759-b7b1-400a416ebe6a",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:52:23.843Z"
+  },
+  {
+    "id": "3cdb53a6-cc65-435d-97e9-821b87e6fd20",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "e205f111-7092-4f62-9446-b7eea9b6e8e2",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:52:31.789Z"
+  },
+  {
+    "id": "9505806a-5ddd-4d3d-9848-9f5ad73cf39c",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "2acfa25d-eaab-40c4-a90b-daca4594bae0",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:52:41.101Z"
+  },
+  {
+    "id": "388443ff-5faf-49b0-bfd9-ca0f33eccc25",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "2664c8c9-eb16-469c-ae5c-6a09adb7483f",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:52:47.985Z"
+  },
+  {
+    "id": "fa4401bf-ea49-4f36-b1f8-17fd9b7a2cd0",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "f1b3e168-c90d-4b77-9d30-6d35eb03694a",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:52:57.050Z"
+  },
+  {
+    "id": "5d99983d-19db-4ddc-829e-b72b24838035",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "94359703-0741-439c-84f4-334adcd3bd88",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:53:02.334Z"
+  },
+  {
+    "id": "31e56ddf-9ef1-43a7-bc63-f6a26a86b723",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "dce08c3d-968d-4ada-8e45-d0be53e39658",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:53:10.907Z"
+  },
+  {
+    "id": "4430f247-8bf5-4bae-b041-c822c7e16542",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "questionId": "342de1d9-6b7d-4e1c-8c92-06f5385af0f3",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Customer Support Representative, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:53:20.228Z"
+  },
+  {
+    "id": "31336e0b-0a97-4bba-9212-3c522f8aee1e",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "questionId": "8eff6e23-06f9-4df7-8e55-47c08e9b6642",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Backend Developer, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:54:32.190Z"
+  },
+  {
+    "id": "7322d3d2-f204-48dc-989d-35fd749bcae1",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "questionId": "9362b42a-71fd-4511-b7a8-3c734ab6f114",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Backend Developer, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:54:39.329Z"
+  },
+  {
+    "id": "dfd0f446-3765-4ac5-866d-348f56115d00",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "questionId": "aeffd8bc-7f5d-4925-8754-edf66bbfc5d6",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Backend Developer, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:54:46.428Z"
+  },
+  {
+    "id": "93960325-ea43-45d0-a2df-d5e2f0a1414f",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "questionId": "d349f897-4dd1-44df-890e-a63d81decfeb",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Backend Developer, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:54:53.791Z"
+  },
+  {
+    "id": "ed475cbb-194b-4953-9b3d-757ee8688ded",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "1b1d3bce-6e9c-4fa1-985a-d2b350cb637f",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:10.288Z"
+  },
+  {
+    "id": "b364068a-3a4b-4dca-9bff-c8b93e0c1473",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "289ecdcc-ee94-4a21-9426-9cb8cd82a43a",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:13.302Z"
+  },
+  {
+    "id": "2bf82ebd-0372-4bd7-ad51-8ddabbe75421",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "b093b276-1cc8-4b63-a1bb-d5f726a48582",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:23.590Z"
+  },
+  {
+    "id": "811432eb-eba0-48a0-8738-4520e400268d",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "3287eabf-73e4-4f7a-8c38-df5c57ea24c9",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:30.153Z"
+  },
+  {
+    "id": "c40f5e02-7b31-4daa-b8c4-65483955912f",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "b03aa0be-b6fb-4851-a03a-7bbd26c37049",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:36.835Z"
+  },
+  {
+    "id": "7e2ab65e-f5d9-4346-8ed7-739dac945cd7",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "580ecbf7-ca0d-4757-9753-e8a8d6a6392c",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:44.360Z"
+  },
+  {
+    "id": "4c8820d2-6130-41ac-9817-471ca3e2bfe9",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "a450cfd1-5290-43f6-8109-a7217bf8417b",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:56:54.251Z"
+  },
+  {
+    "id": "8f3b3020-90d3-41bd-a714-edb9e3f43af3",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "217a7043-5160-42d3-bad7-10fa652b51e8",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:57:02.286Z"
+  },
+  {
+    "id": "3860154b-d210-4b5a-9749-d2cc0eba1065",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "questionId": "30f47fab-9d4c-4283-88b2-3c49eed43014",
+    "transcript": "Skipped question by candidate.",
+    "durationSec": 1,
+    "wpm": 240,
+    "fillerCount": 0,
+    "evaluation": {
+      "answer_quality": {
+        "score": 3,
+        "strengths": [
+          "Direct response addressed the question"
+        ],
+        "improvements": [
+          "Expand your response with specific technical details",
+          "Apply the STAR framework (Situation, Task, Action, Result) for stronger impact"
+        ],
+        "used_star": false
+      },
+      "tone_score": 7,
+      "english": {
+        "score": 8,
+        "mistakes": [],
+        "vocabulary_tip": "Connect your ideas with crisp transition phrases like 'Specifically' and 'Consequently'."
+      },
+      "better_answer": "In my previous work as a Data Analyst, I encountered a similar objective. Specifically, I took responsibility for the core implementation, addressed key technical constraints, and delivered measurable positive impact.",
+      "follow_up_question": "Could you share a specific example or scenario where you applied that in a project?",
+      "roman_urdu_tip": "Aapka answer thora mukhtasar tha, mazeed details aur example add karein."
+    },
+    "createdAt": "2026-10-22T10:57:08.173Z"
+  }
+]

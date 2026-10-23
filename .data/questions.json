@@ -1,0 +1,569 @@
+[
+  {
+    "id": "cd376f7a-d4a2-4c4c-9604-0c5e1bb42385",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "text": "Please introduce yourself and tell me why you chose frontend development.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "cd974f35-4082-49ff-9514-1f9c8464e106",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "text": "How do you manage component state and avoid unnecessary re-renders in React?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "dbd966a4-f304-4bdd-b453-b4326ce5f5cc",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "text": "Describe a challenging bug you faced in a web project and how you resolved it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "0d185c5c-0efa-44a6-8ff9-8c4559fc123d",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "text": "How do you ensure web accessibility and mobile responsiveness across devices?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "f1f4dfed-4d05-4376-8de5-161dc9fb7045",
+    "sessionId": "70c8db47-1a8b-49c5-99ee-2a1ee7b46d15",
+    "text": "Where do you see your technical growth heading over the next two years?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "fecaf081-cebc-4378-b732-cb0b72d5a4a4",
+    "sessionId": "788ae677-9b79-4765-a97a-dba0ec458ca0",
+    "text": "Please introduce yourself and tell me why you chose frontend development.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "92dfa895-9ab3-483e-af0b-e37bcf9eeec0",
+    "sessionId": "788ae677-9b79-4765-a97a-dba0ec458ca0",
+    "text": "How do you manage component state and avoid unnecessary re-renders in React?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "4b320316-d062-441d-8486-7260a6dd0bff",
+    "sessionId": "788ae677-9b79-4765-a97a-dba0ec458ca0",
+    "text": "Describe a challenging bug you faced in a web project and how you resolved it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "d5b58492-818e-4a2c-9df7-8f8107090e87",
+    "sessionId": "788ae677-9b79-4765-a97a-dba0ec458ca0",
+    "text": "How do you ensure web accessibility and mobile responsiveness across devices?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "e8772a08-07a0-49dd-9493-a9a3c3371c98",
+    "sessionId": "788ae677-9b79-4765-a97a-dba0ec458ca0",
+    "text": "Where do you see your technical growth heading over the next two years?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "f1b6de2a-427c-4f9c-afad-4843bbdbe38a",
+    "sessionId": "f9a5f8d1-293c-42b0-b5cf-cceba7f1880a",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "89832626-af94-4715-9e35-5c9278759511",
+    "sessionId": "f9a5f8d1-293c-42b0-b5cf-cceba7f1880a",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "5543c9e1-0789-4dea-b71a-9812a8de51a2",
+    "sessionId": "f9a5f8d1-293c-42b0-b5cf-cceba7f1880a",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "65cae632-753e-4f06-8ffa-b91813ebd393",
+    "sessionId": "f9a5f8d1-293c-42b0-b5cf-cceba7f1880a",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "b56fe16a-543f-4f48-b16a-ef8a055449da",
+    "sessionId": "f9a5f8d1-293c-42b0-b5cf-cceba7f1880a",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "f406ae6d-1b4d-4579-b431-120d3421166b",
+    "sessionId": "d82f61d1-e7d4-4da1-ba2a-04b512768215",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "692c7e25-8683-4bd3-a0bf-c8e9f3aac2b8",
+    "sessionId": "d82f61d1-e7d4-4da1-ba2a-04b512768215",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "6a8d200a-fa68-43cb-8c88-1055a81509e8",
+    "sessionId": "d82f61d1-e7d4-4da1-ba2a-04b512768215",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "8b1de827-9304-490e-9c55-c7e62d4ccbb8",
+    "sessionId": "d82f61d1-e7d4-4da1-ba2a-04b512768215",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "cb5b53c1-7694-45e0-aab2-8c5c73c9159f",
+    "sessionId": "d82f61d1-e7d4-4da1-ba2a-04b512768215",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "4ffdeaca-df33-435f-9aff-e35da4553092",
+    "sessionId": "dae1ded5-a4eb-474e-ae5b-4cbb7b9a7d24",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "02cce6c2-2d61-48d3-b62c-5bfc5dfb20a3",
+    "sessionId": "dae1ded5-a4eb-474e-ae5b-4cbb7b9a7d24",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "eda24e25-226c-4788-a4f3-83dc9002254a",
+    "sessionId": "dae1ded5-a4eb-474e-ae5b-4cbb7b9a7d24",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "528ee845-367c-4528-ab6a-d364732e3b3a",
+    "sessionId": "dae1ded5-a4eb-474e-ae5b-4cbb7b9a7d24",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "5fe2fbd4-584a-46d8-b869-b33253eb32bd",
+    "sessionId": "dae1ded5-a4eb-474e-ae5b-4cbb7b9a7d24",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "08b33b95-1a0d-45d4-9ab0-a631ac9342da",
+    "sessionId": "0d044a53-8406-47fd-ae0e-52a61beb83de",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "3d4f18d4-dd42-4b55-ad93-f026a68a6d4f",
+    "sessionId": "0d044a53-8406-47fd-ae0e-52a61beb83de",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "1e6a2dbe-2da0-44b8-88c6-70efb60321ee",
+    "sessionId": "0d044a53-8406-47fd-ae0e-52a61beb83de",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "3c6e76ac-8ede-419d-89cd-7407d607874f",
+    "sessionId": "0d044a53-8406-47fd-ae0e-52a61beb83de",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "1ceb2bec-c82a-4361-955a-83a34ff704c6",
+    "sessionId": "0d044a53-8406-47fd-ae0e-52a61beb83de",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "d0838487-fc86-438e-8f21-198f503e8419",
+    "sessionId": "b43bfeb3-a16a-41a7-97c0-96b598e8290b",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "9e19b5d3-569c-421d-921c-888878ef9635",
+    "sessionId": "b43bfeb3-a16a-41a7-97c0-96b598e8290b",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "aad85b5f-4790-4666-9efd-54b9a8a65d71",
+    "sessionId": "b43bfeb3-a16a-41a7-97c0-96b598e8290b",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "a2a3801e-0b4c-4bef-a32b-6a636ae55f37",
+    "sessionId": "b43bfeb3-a16a-41a7-97c0-96b598e8290b",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "b3a40d20-d17c-4e10-a5fc-13468c62854d",
+    "sessionId": "b43bfeb3-a16a-41a7-97c0-96b598e8290b",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "a5fff7c2-eb3c-4759-b7b1-400a416ebe6a",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "2acfa25d-eaab-40c4-a90b-daca4594bae0",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "f1b3e168-c90d-4b77-9d30-6d35eb03694a",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "dce08c3d-968d-4ada-8e45-d0be53e39658",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "fb900c36-389e-4889-9ba2-f46c109a8837",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "e205f111-7092-4f62-9446-b7eea9b6e8e2",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 1,
+    "isFollowUp": true
+  },
+  {
+    "id": "2664c8c9-eb16-469c-ae5c-6a09adb7483f",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 2,
+    "isFollowUp": true
+  },
+  {
+    "id": "94359703-0741-439c-84f4-334adcd3bd88",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 3,
+    "isFollowUp": true
+  },
+  {
+    "id": "342de1d9-6b7d-4e1c-8c92-06f5385af0f3",
+    "sessionId": "48fe309f-6095-4481-8ed1-f5dfb827918c",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 4,
+    "isFollowUp": true
+  },
+  {
+    "id": "8eff6e23-06f9-4df7-8e55-47c08e9b6642",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "Tell me about your background and why you enjoy backend engineering.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "aeffd8bc-7f5d-4925-8754-edf66bbfc5d6",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "How do you decide between relational SQL and NoSQL databases for a project?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "7add6c0f-4288-477c-9d53-fa1f31f53010",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "Tell me about a time you had to optimize a slow API endpoint or database query.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "7d5e571e-eee6-438d-824d-869b1244a7fb",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "How do you handle authentication, authorization, and security in your services?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "4a3de9a0-5245-4219-87b6-4d1e18b0c3aa",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "What approach do you take when troubleshooting a production outage?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "9362b42a-71fd-4511-b7a8-3c734ab6f114",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 1,
+    "isFollowUp": true
+  },
+  {
+    "id": "d349f897-4dd1-44df-890e-a63d81decfeb",
+    "sessionId": "9daef460-3d34-4219-b828-8c232a53f54b",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 2,
+    "isFollowUp": true
+  },
+  {
+    "id": "1b1d3bce-6e9c-4fa1-985a-d2b350cb637f",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Introduce yourself and explain what sparked your passion for data analytics.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "b093b276-1cc8-4b63-a1bb-d5f726a48582",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Walk me through a project where your analysis directly influenced a business decision.",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "b03aa0be-b6fb-4851-a03a-7bbd26c37049",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "How do you ensure data accuracy and handle missing or corrupted data in SQL?",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "a450cfd1-5290-43f6-8109-a7217bf8417b",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Tell me about a time you explained complex data findings to non-technical stakeholders.",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "30f47fab-9d4c-4283-88b2-3c49eed43014",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "What tools or libraries do you use most frequently and why?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "289ecdcc-ee94-4a21-9426-9cb8cd82a43a",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 1,
+    "isFollowUp": true
+  },
+  {
+    "id": "3287eabf-73e4-4f7a-8c38-df5c57ea24c9",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 2,
+    "isFollowUp": true
+  },
+  {
+    "id": "580ecbf7-ca0d-4757-9753-e8a8d6a6392c",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 3,
+    "isFollowUp": true
+  },
+  {
+    "id": "217a7043-5160-42d3-bad7-10fa652b51e8",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 4,
+    "isFollowUp": true
+  },
+  {
+    "id": "c31dcf35-a0de-4a21-8f69-18cbc05c76ef",
+    "sessionId": "6f63f9b4-67b9-42b4-957d-020770f4b2f1",
+    "text": "Could you share a specific example or scenario where you applied that in a project?",
+    "position": 5,
+    "isFollowUp": true
+  },
+  {
+    "id": "b1205157-f513-4207-b04f-b9283d61bb1c",
+    "sessionId": "4022ac7b-8e0f-450a-a44a-e9af03e02371",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "b466d75a-91df-4a9e-ae29-8ec6b52f8968",
+    "sessionId": "4022ac7b-8e0f-450a-a44a-e9af03e02371",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "5b415f6d-ca5f-4299-829b-4b9f1f5212d8",
+    "sessionId": "4022ac7b-8e0f-450a-a44a-e9af03e02371",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "0609d430-d687-4869-b0d4-2104720c534a",
+    "sessionId": "4022ac7b-8e0f-450a-a44a-e9af03e02371",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "b3664d14-3a13-4d4d-853d-c41703b1e439",
+    "sessionId": "4022ac7b-8e0f-450a-a44a-e9af03e02371",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "238d9b8a-6384-490b-be36-55fe280942dc",
+    "sessionId": "c8f4b811-b7fa-4dcd-996c-f3ef8a12afdb",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "8f4425cb-969d-4b38-bddf-3e301220af50",
+    "sessionId": "c8f4b811-b7fa-4dcd-996c-f3ef8a12afdb",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "4a3323c9-324b-4463-a079-2ac90cb40a45",
+    "sessionId": "c8f4b811-b7fa-4dcd-996c-f3ef8a12afdb",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "64abab28-e43a-4051-b626-7bb8c35a6549",
+    "sessionId": "c8f4b811-b7fa-4dcd-996c-f3ef8a12afdb",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "12d7d6a7-d73c-41d1-83a2-6dcb12333864",
+    "sessionId": "c8f4b811-b7fa-4dcd-996c-f3ef8a12afdb",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "2dcb9381-179f-4e3a-972c-3153dbede49b",
+    "sessionId": "55413312-3c53-4e58-948f-dd981c0480e5",
+    "text": "Tell me about yourself and why you are interested in this position.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "d6826d84-e101-4b4b-a244-c775daa1ff95",
+    "sessionId": "55413312-3c53-4e58-948f-dd981c0480e5",
+    "text": "What is your greatest technical or professional strength, and can you share an example of it?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "d58c9071-1114-4969-940d-0682c3afb21e",
+    "sessionId": "55413312-3c53-4e58-948f-dd981c0480e5",
+    "text": "Describe a difficult situation you encountered at work or in a project and how you handled it.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "22b00ee8-bce0-4bff-b6d4-1816bb66c2e4",
+    "sessionId": "55413312-3c53-4e58-948f-dd981c0480e5",
+    "text": "How do you prioritize competing deadlines when multiple tasks demand your attention?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "c041068e-0e7e-4178-b2fb-55d7fa64f64e",
+    "sessionId": "55413312-3c53-4e58-948f-dd981c0480e5",
+    "text": "Do you have any questions for me or anything specific you would like to highlight?",
+    "position": 5,
+    "isFollowUp": false
+  },
+  {
+    "id": "37e267eb-d1f7-4ff8-9f26-2707fd6e7a6c",
+    "sessionId": "682c5cdf-b847-4ce8-af1b-6ceb5fe16aa4",
+    "text": "Please introduce yourself and tell me why you want to work in customer support.",
+    "position": 1,
+    "isFollowUp": false
+  },
+  {
+    "id": "447f453c-9547-464f-b21c-74d8864c4fdf",
+    "sessionId": "682c5cdf-b847-4ce8-af1b-6ceb5fe16aa4",
+    "text": "How do you handle an angry or frustrated customer who demands an immediate refund?",
+    "position": 2,
+    "isFollowUp": false
+  },
+  {
+    "id": "86d25cde-ca17-4ab0-9deb-3a75f3a1c0cd",
+    "sessionId": "682c5cdf-b847-4ce8-af1b-6ceb5fe16aa4",
+    "text": "Tell me about a time you went above and beyond to solve a customer problem.",
+    "position": 3,
+    "isFollowUp": false
+  },
+  {
+    "id": "647885f4-a8d2-4cbb-bbf6-bb173508f533",
+    "sessionId": "682c5cdf-b847-4ce8-af1b-6ceb5fe16aa4",
+    "text": "How do you explain a complex technical issue to someone with zero technical knowledge?",
+    "position": 4,
+    "isFollowUp": false
+  },
+  {
+    "id": "908220e5-b877-4868-9c01-0c40cd76e8d7",
+    "sessionId": "682c5cdf-b847-4ce8-af1b-6ceb5fe16aa4",
+    "text": "How do you prioritize multiple support tickets when waiting times are increasing?",
+    "position": 5,
+    "isFollowUp": false
+  }
+]

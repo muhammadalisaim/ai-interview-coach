@@ -1,0 +1,140 @@
+[
+  {
+    "id": "frontend-dev",
+    "name": "Frontend Developer",
+    "category": "Engineering",
+    "description": "Build user interfaces with modern React, Next.js, TypeScript, and responsive CSS.",
+    "skills": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "Tailwind CSS",
+      "Web Performance"
+    ],
+    "active": true
+  },
+  {
+    "id": "backend-dev",
+    "name": "Backend Developer",
+    "category": "Engineering",
+    "description": "Design robust APIs, microservices, databases, authentication, and cloud infrastructure.",
+    "skills": [
+      "Node.js",
+      "PostgreSQL",
+      "REST & GraphQL",
+      "System Design",
+      "Redis"
+    ],
+    "active": true
+  },
+  {
+    "id": "fullstack-dev",
+    "name": "Full Stack Developer",
+    "category": "Engineering",
+    "description": "End-to-end web application development from client-side UI to database schemas.",
+    "skills": [
+      "React",
+      "Node.js",
+      "Database Architecture",
+      "REST APIs",
+      "Cloud Deployment"
+    ],
+    "active": true
+  },
+  {
+    "id": "data-analyst",
+    "name": "Data Analyst",
+    "category": "Data & Analytics",
+    "description": "Transform complex business datasets into actionable insights, dashboards, and growth levers.",
+    "skills": [
+      "SQL",
+      "Python / Pandas",
+      "Tableau / PowerBI",
+      "Statistical Analysis",
+      "A/B Testing"
+    ],
+    "active": true
+  },
+  {
+    "id": "product-manager",
+    "name": "Product Manager",
+    "category": "Product & Design",
+    "description": "Define product vision, user stories, KPIs, roadmaps, and lead cross-functional sprint teams.",
+    "skills": [
+      "User Empathy",
+      "Product Strategy",
+      "Prioritization",
+      "Metrics & Growth",
+      "Agile / Scrum"
+    ],
+    "active": true
+  },
+  {
+    "id": "ui-ux-designer",
+    "name": "UI/UX Designer",
+    "category": "Product & Design",
+    "description": "Design user journeys, wireframes, interactive Figma prototypes, and design systems.",
+    "skills": [
+      "Figma",
+      "User Research",
+      "Information Architecture",
+      "Prototyping",
+      "Design Systems"
+    ],
+    "active": true
+  },
+  {
+    "id": "marketing-exec",
+    "name": "Marketing Executive",
+    "category": "Marketing & Sales",
+    "description": "Drive customer acquisition, SEO, social media campaigns, and brand storytelling.",
+    "skills": [
+      "Digital Marketing",
+      "SEO / Content",
+      "Copywriting",
+      "Campaign Analytics",
+      "Funnel Optimization"
+    ],
+    "active": true
+  },
+  {
+    "id": "hr-talent",
+    "name": "HR & Talent Specialist",
+    "category": "Human Resources",
+    "description": "Manage recruitment pipelines, candidate interviews, onboarding, and company culture.",
+    "skills": [
+      "Talent Sourcing",
+      "Behavioral Assessment",
+      "Employee Engagement",
+      "Communication"
+    ],
+    "active": true
+  },
+  {
+    "id": "customer-support",
+    "name": "Customer Support Representative",
+    "category": "Customer Success",
+    "description": "Deliver prompt problem resolution, empathetic customer communication, and support documentation.",
+    "skills": [
+      "Active Listening",
+      "Conflict Resolution",
+      "CRM Tools",
+      "Written Communication"
+    ],
+    "active": true
+  },
+  {
+    "id": "devops-engineer",
+    "name": "DevOps & Cloud Engineer",
+    "category": "Engineering",
+    "description": "Automate CI/CD pipelines, containerize workloads with Docker/Kubernetes, and manage AWS/GCP clouds.",
+    "skills": [
+      "Docker & Kubernetes",
+      "CI/CD Pipelines",
+      "AWS / GCP",
+      "Linux Administration",
+      "Monitoring"
+    ],
+    "active": true
+  }
+]
